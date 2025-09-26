@@ -1,5 +1,5 @@
 public class MathUtils {
-
+//Tests
     public static double squareRoot(double num) {
         if (num < 0) throw new IllegalArgumentException("Negative number");
         return Math.sqrt(num);
